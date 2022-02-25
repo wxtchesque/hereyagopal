@@ -1,0 +1,740 @@
+<!----------------------------------------------------------
+
+              ❥ │ R E L A T I O N S H I P │ 
+
+----------------------------------------------------------->
+<div class="tab-pane fade show" id="RELATIONSHIPS">
+  
+<div class="row m-0">
+<div class="container-fluid bg-faded pl-2 pr-2 pt-3 table-responsive"
+     style="border-radius:15px; width:265px; height:370px">
+  
+<center>
+<!---------------------------------------
+           SOCIAL LIFE INDEX
+---------------------------------------->
+<div class="ui-accordion card p-0 mb-2" style="color:#000000; width:235px; border-radius:50px">
+<i class="my-2 text-muted text-center" style="font-size:12pt"> <i class="fa fa-comments"> │ SOCIAL LIFE INDEX</i></i>
+
+</div></center>
+    <!--------- CHARACTER 1 --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331302340010024/marshstalk.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:65px">
+           
+      <div class="col p-0 px-1"> <div class="row"> <hr class="mt-0 p-0 mb-1 w-100">
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:12.5px">
+      <b>♀ │ Marshstalk</b></p><hr class="my-1 p-0 w-100">
+      
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:11.5px">
+      <i class="fas fa-heart"></i> │ MOTHER / IRISSTAR LOYALIST / VICTIM</a></p>
+      <hr class="mt-1 mb-3 p-0 w-100">
+      
+      </div></div>
+    <!--------- CHARACTER 2 --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331316869070848/houndhackle.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:65px">
+           
+      <div class="col p-0 px-1"> <div class="row"> <hr class="mt-0 p-0 mb-1 w-100">
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:12.5px">
+      <b>♂ │ Houndhackle</b></p><hr class="my-1 p-0 w-100">
+      
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:11.5px">
+      <i class="fas fa-heart"></i> │ FATHER / IRISSTAR LOYALIST</a></p>
+      <hr class="mt-1 mb-3 p-0 w-100">
+      
+      </div></div>
+      
+       <!--------- CHARACTER 3 --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332299040849950/miresnout.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:65px">
+           
+      <div class="col p-0 px-1"> <div class="row"> <hr class="mt-0 p-0 mb-1 w-100">
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:12.5px">
+      <b>♂ │ MIRESNOUT</b></p><hr class="my-1 p-0 w-100">
+      
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:11.5px">
+      <i class="fas fa-heart"></i> │ UNCLE / MENTOR</a></p>
+      <hr class="mt-1 mb-3 p-0 w-100">
+      
+      </div></div>
+      
+       <!--------- CHARACTER 4 --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944334918794768424/shard.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:65px">
+           
+      <div class="col p-0 px-1"> <div class="row"> <hr class="mt-0 p-0 mb-1 w-100">
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:12.5px">
+      <b>⚧ │ SHARD</b></p><hr class="my-1 p-0 w-100">
+      
+      <p class="text-muted mb-0 pl-2 text-uppercase" style="font-size:11.5px">
+      <i class="fas fa-heart"></i> │ CLOSE FRIEND / ALLY</a></p>
+      <hr class="mt-1 mb-3 p-0 w-100">
+      
+      </div></div>
+      
+<br></div>
+<!------------- [ E N D ] - S O C I A L - L I F E ----------------->
+
+
+
+
+
+<!---------------------------------------
+          RELATIONSHIP NAVIGATION
+---------------------------------------->
+<div class="container-fluid bg-faded p-0 border-0"
+     style="border-radius:15px; width:685px; height:370px">
+
+<div class="row no-gutters">
+<div class="nav flex-column nav-pills ml-1 pl-1 pr-1 table-responsive"
+     style="border-radius:15px; width:90px; height:370px">
+  
+    <!--------- CHARACTER 1 --------->
+      <a class="nav-item"> <a class="mt-2 p-0 m-0 img-thumbnail nav-link show active" data-toggle="tab" href="#ONE"
+         style="border-radius:15px; width:75px; height:75px">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331302340010024/marshstalk.png"
+           style="border-radius:15px; width:75px; height:75px"></a></a>
+  
+    <!--------- CHARACTER 2 --------->
+      <a class="nav-item"> <a class="mt-2 p-0 m-0 img-thumbnail nav-link show" data-toggle="tab" href="#TWO"
+         style="border-radius:15px; width:75px; height:75px">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331316869070848/houndhackle.png"
+           style="border-radius:15px; width:75px; height:75px"></a></a>
+           
+   <!--------- CHARACTER 3 --------->
+      <a class="nav-item"> <a class="mt-2 p-0 m-0 img-thumbnail nav-link show" data-toggle="tab" href="#THREE"
+         style="border-radius:15px; width:75px; height:75px">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332299040849950/miresnout.png"
+           style="border-radius:15px; width:75px; height:75px"></a></a>
+
+   <!--------- CHARACTER 4 --------->
+      <a class="nav-item"> <a class="mt-2 p-0 m-0 img-thumbnail nav-link show" data-toggle="tab" href="#FOUR"
+         style="border-radius:15px; width:75px; height:75px">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944334918794768424/shard.png"
+           style="border-radius:15px; width:75px; height:75px"></a></a>
+<br></div>
+<!------------- [ E N D ] - R E L A T I O N S H I P - N A V I G A T I O N ----------------->
+
+
+
+
+
+
+
+
+
+
+<div class="card mt-2 mr-1 ml-1 pb-3 table-responsive border-0"
+     style="width:578px; border-radius:15px; height:355px">
+
+<div class="tab-content">
+<!--------------------------------------------------------
+
+                     RELATIONSHIP 01
+            
+--------------------------------------------------------->
+<div class="tab-pane fade active show" id="ONE">
+
+    <!--------- BANNER --------->
+      <div class="row no-gutters">
+      <div class="container"
+           style="background:url(https://i.imgur.com/vmJzSii.gif) center; 
+                  background-size:cover;
+                  border-radius:15px 15px 0px 0px; 
+                  width:578px; 
+                  height:55px"></div></div>
+
+      <div class="container px-2 py-2">
+    <!--------- BANNER --------->
+      <i class="fab fa-pagelines fa-2x text-muted" style="position:absolute; top:5px; left:0px; z-index:999"></i>
+
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:35px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:50px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:64px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:78px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:92px; left:2px; z-index:999"></i>
+
+    <!--------- PROFILE PICTURE --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331302340010024/marshstalk.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:102px">
+      <div class="col p-0 px-1"><div class="row">
+  
+    <!--------- GENDER + NAME + RELATIONSHIP STATUS --------->
+      <h1 class="pt-1 text-uppercase mb-0 pl-2" style="font-size:20px">
+      <a class="text-muted" href="">
+      ♀ │ MARSHSTALK │ MOTHER / IRISSTAR LOYALIST / VICTIM</a></h1>
+      <hr class="mt-2 my-1 p-0 w-100">
+
+    <!--------- HOW DOES YOUR CHARACTER THINK, FEEL OR DO FOR THEM? --------->
+      <p class="mb-0 pl-2 text-muted" style="font-size:12px"> Feels that there has always been a void between them, Looks down on, Saw as an obstacle, Respects the power and cunning of, Thinks back on with disgust and slight fear</p><hr class="my-1 p-0 w-100">
+
+      </div></div>
+    <!--------- OTHER STATUS --------->
+      <div class="col p-0" style="font-size:12px"><div class="row no-gutters">
+      <div class="col pr-2"><span class="pl-2 pull-left text-muted"><b>STATUS</b></span>
+      <span class="pull-right text-muted">Deceased</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-1"><span class="pull-left text-muted"><b>FEELINGS</b></span>
+      <span class="pull-right text-muted">Disgust</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-3 pr-1"><span class="pull-left text-muted"><b>CLAN</b></span>
+      <span class="pull-right text-muted">SwampClan</span><hr class="my-1 p-0 w-100"></div>
+
+      </div></div>
+    <!--------- MINI MOODBOARD --------->
+      <div class="row no-gutters mb-2 mt-2">
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/12/bc/c8/12bcc81bdaed3d0177bc55d9762fc2d8.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://cdn.discordapp.com/attachments/699362769736302592/946527556356673556/fdb2eaf78b7e2fef384fbc3ebe4249af.png); background-size:cover; background-position:bottom"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/74/0c/ae/740caeb22d52e1257f18bebe418d6e83.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://cdn.discordapp.com/attachments/699362769736302592/946528961356243024/f3282277ab7dce6897b4c8b636e248b9.png); background-size:cover; background-position:center"></div></div>
+      
+      
+      </div><div class="row no-gutters">
+    <!--------- (LEFT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332923996360745/rox_headcap.png" 
+           class="img-thumbnail p-0" style="height:70px">
+           
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"At least in the end you served your clan, didn't you Mother? I owe you nothing."</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i>
+      
+      </div></div></div>
+    <!--------- (RIGHT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"I brought you into this world, taught you everything you needed to be better, and you threw it away!"</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i></div>
+      
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331302340010024/marshstalk.png" 
+           class="img-thumbnail p-0" style="height:70px"></div></div>
+
+
+      </div>
+    <!---------------------------------------
+            SHIP/RELATIONSHIP INSIGHT
+    ---------------------------------------->
+      <div class="row no-gutters ml-1 mr-1 mt-1" style="font-size:12.5px">
+    <!---------- CHARACTER LEFT ----------> 
+      <div class="col-6 pr-2">
+      <span class="pull-left text-uppercase text-muted"><b><i class="fas fa-heart"></i> │ Roxanne │</b> Agender</span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- CHARACTER RIGHT ----------> 
+      <div class="col-6 pl-2">
+      <span class="pull-right text-uppercase text-muted">Cisfemale <b>│ Marshstalk │ <i class="fas fa-skull"></i></b></span>
+      <hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) LOVE (ROMANTIC/PLATONIC) / CRUSHING ON / HEARTBROKEN etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>LOVE │</b> Despises</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Maternal <b>│ LOVE</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) TRUST / SUSPICIOUS / DISTRUST etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>TRUST │</b> Nonexistant</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+     <span class="pull-right text-uppercase text-muted">Nonexistant <b>│ TRUST</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) COMFORT / SAFE / FEAR ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>COMFORT │</b> Fears</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Fears <b>│ COMFORT</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+      </div>
+    <!--------- RELATIONSHIP HISTORY --------->
+      <p class="text-muted mt-2 pl-1" style="font-size:12px">A relationship held to import by blood alone, neither mother or daughter were ever particularly close, their cunning keeping their distrust of the other fimrly in place especially as Roxanne (or at the time Flashpaw) began rapidly catching up to her mother's own prowess.</p>
+
+      <p class="text-muted mt-3 pl-1" style="font-size:12px">By the time Flashpaw was Flashfire she'd surpassed Marshstalk at that age and the rift between them grew, the quiet realization that she'd raise someone apt to challenge her herself should she so choose to. Perhaps it was simply fate things ended the way the did.</p>
+
+</div>
+<!----------------- RELATIONSHIP 01 END ----------------->
+</div>
+
+
+<!--------------------------------------------------------
+
+                     RELATIONSHIP 02
+            
+--------------------------------------------------------->
+
+
+<div class="tab-pane fade show" id="TWO">
+
+    <!--------- BANNER --------->
+      <div class="row no-gutters">
+      <div class="container"
+           style="background:url(https://i.imgur.com/vmJzSii.gif) center; 
+                  background-size:cover;
+                  border-radius:15px 15px 0px 0px; 
+                  width:578px; 
+                  height:55px"></div></div>
+
+      <div class="container px-2 py-2">
+    <!--------- BANNER --------->
+      <i class="fab fa-pagelines fa-2x text-muted" style="position:absolute; top:5px; left:0px; z-index:999"></i>
+
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:35px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:50px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:64px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:78px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:92px; left:2px; z-index:999"></i>
+
+    <!--------- PROFILE PICTURE --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331316869070848/houndhackle.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:102px">
+      <div class="col p-0 px-1"><div class="row">
+  
+    <!--------- GENDER + NAME + RELATIONSHIP STATUS --------->
+      <h1 class="pt-1 text-uppercase mb-0 pl-2" style="font-size:20px">
+      <a class="text-muted" href="">
+      ♂ │ Houndhackle │ Father / Irisstar's Loyalists </a></h1>
+      <hr class="mt-2 my-1 p-0 w-100">
+
+    <!--------- HOW DOES YOUR CHARACTER THINK, FEEL OR DO FOR THEM? --------->
+      <p class="mb-0 pl-2 text-muted" style="font-size:12px"> Respects the skills of, Considers him one of the reasons SwampClan fell, Looks back on his memories with dissapointment and disgust</p><hr class="my-1 p-0 w-100">
+
+      </div></div>
+    <!--------- OTHER STATUS --------->
+      <div class="col p-0" style="font-size:12px"><div class="row no-gutters">
+      <div class="col pr-2"><span class="pl-2 pull-left text-muted"><b>STATUS</b></span>
+      <span class="pull-right text-muted">Unknown, MIA</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-1"><span class="pull-left text-muted"><b>FEELINGS</b></span>
+      <span class="pull-right text-muted">Distrust</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-3 pr-1"><span class="pull-left text-muted"><b>CLAN</b></span>
+      <span class="pull-right text-muted">SwampClan</span><hr class="my-1 p-0 w-100"></div>
+
+      </div></div>
+    <!--------- MINI MOODBOARD --------->
+      <div class="row no-gutters mb-2 mt-2">
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/91/06/cf/9106cf69581b7f0ab1cd8f3133c9bd8a.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/70/a6/a0/70a6a0c7ce7a0d1e451a9d889dfd5627.jpg); background-size:cover; background-position:bottom"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/45/7a/c0/457ac0d706b3908a1f296520c9a5c427.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/37/9b/9a/379b9a1d07d222818612291f85be2d0a.jpg); background-size:cover; background-position:center"></div></div>
+      
+      
+      </div><div class="row no-gutters">
+    <!--------- (LEFT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332923996360745/rox_headcap.png" 
+           class="img-thumbnail p-0" style="height:70px">
+           
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"I'm not such a fool as to ignore our similarities... but you were always a fool. Between mother and Irisstar I'm not sure if you did a single thing for yourself." </i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i>
+      
+      </div></div></div>
+    <!--------- (RIGHT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"What an interesting little result you ended up being, it's a shame I didn't quite account for you having your own curiousities. If only you'd just've let bygones be begones."</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i></div>
+      
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944331316869070848/houndhackle.png" 
+           class="img-thumbnail p-0" style="height:70px"></div></div>
+
+
+      </div>
+    <!---------------------------------------
+            SHIP/RELATIONSHIP INSIGHT
+    ---------------------------------------->
+      <div class="row no-gutters ml-1 mr-1 mt-1" style="font-size:12.5px">
+    <!---------- CHARACTER LEFT ----------> 
+      <div class="col-6 pr-2">
+      <span class="pull-left text-uppercase text-muted"><b><i class="fas fa-heart"></i> │ ??? │</b> ???</span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- CHARACTER RIGHT ----------> 
+      <div class="col-6 pl-2">
+      <span class="pull-right text-uppercase text-muted">??? <b>│ ??? │ <i class="fas fa-heart"></i></b></span>
+      <hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) LOVE (ROMANTIC/PLATONIC) / CRUSHING ON / HEARTBROKEN etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>LOVE │</b> Nonexistant</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Nonexistant <b>│ LOVE</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) TRUST / SUSPICIOUS / DISTRUST etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>TRUST │</b> Nonexistant</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+     <span class="pull-right text-uppercase text-muted">Nonexistant <b>│ TRUST</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) COMFORT / SAFE / FEAR ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>COMFORT │</b> Feels unsafe</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Minorly fears <b>│ COMFORT</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+      </div>
+    <!--------- RELATIONSHIP HISTORY --------->
+      <p class="text-muted mt-2 pl-1" style="font-size:12px">Red's interactions with her father were even more lackluster than those with her mother, though perhaps that's what left a shred of non-hatred between the two. They never truly knew one another outside of training or stagnant small talk, with Houndhackle's idea of parenting being hard learned lessons and bland advice.</p>
+
+      <p class="text-muted mt-3 pl-1" style="font-size:12px">To the very end of the tom being lost to the throngs of the war, unknown if he lived or died, the two maintain a cat and mouse type game of skill, never truly connecting.</p>
+
+</div>
+<!----------------- RELATIONSHIP 02 END ----------------->
+</div>
+
+
+<!--------------------------------------------------------
+
+                     RELATIONSHIP 03
+            
+--------------------------------------------------------->
+
+<div class="tab-pane fade show" id="THREE">
+
+    <!--------- BANNER --------->
+      <div class="row no-gutters">
+      <div class="container"
+           style="background:url(https://i.imgur.com/vmJzSii.gif) center; 
+                  background-size:cover;
+                  border-radius:15px 15px 0px 0px; 
+                  width:578px; 
+                  height:55px"></div></div>
+
+      <div class="container px-2 py-2">
+    <!--------- BANNER --------->
+      <i class="fab fa-pagelines fa-2x text-muted" style="position:absolute; top:5px; left:0px; z-index:999"></i>
+
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:35px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:50px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:64px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:78px; left:2px; z-index:999"></i>
+      <i class="far fa-heart text-muted" style="font-size:12px; position:absolute; top:92px; left:2px; z-index:999"></i>
+
+    <!--------- PROFILE PICTURE --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332299040849950/miresnout.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:102px">
+      <div class="col p-0 px-1"><div class="row">
+  
+    <!--------- GENDER + NAME + RELATIONSHIP STATUS --------->
+      <h1 class="pt-1 text-uppercase mb-0 pl-2" style="font-size:20px">
+      <a class="text-muted" href="">
+      ♂ │ Miresnout │ UNCLE / FORMER DEPUTY / MENTOR</a></h1>
+      <hr class="mt-2 my-1 p-0 w-100">
+
+    <!--------- HOW DOES YOUR CHARACTER THINK, FEEL OR DO FOR THEM? --------->
+      <p class="mb-0 pl-2 text-muted" style="font-size:12px"> Deeply respects the teachings and demeanor, Considers him to have been a great mentor, Appreciated his candor and consideration, Looks back on his death with regret and unresolved grief</p><hr class="my-1 p-0 w-100">
+
+      </div></div>
+    <!--------- OTHER STATUS --------->
+      <div class="col p-0" style="font-size:12px"><div class="row no-gutters">
+      <div class="col pr-2"><span class="pl-2 pull-left text-muted"><b>STATUS</b></span>
+      <span class="pull-right text-muted">Deceased</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-1"><span class="pull-left text-muted"><b>FEELINGS</b></span>
+      <span class="pull-right text-muted">Unresolved grief</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-3 pr-1"><span class="pull-left text-muted"><b>CLAN</b></span>
+      <span class="pull-right text-muted">SwampClan</span><hr class="my-1 p-0 w-100"></div>
+
+      </div></div>
+    <!--------- MINI MOODBOARD --------->
+      <div class="row no-gutters mb-2 mt-2">
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/4f/cc/bf/4fccbf7431d4cdebc27d0ffa8d18d9f1.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/50/8a/30/508a3004d1a4b80f284021b74e83af10.jpg); background-size:cover; background-position:bottom"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/11/3f/c9/113fc97e429134787f3bd608ccc811b7.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/08/6e/1b/086e1be1b6730cb992e21f48401af953.jpg); background-size:cover; background-position:center"></div></div>
+      
+      
+      </div><div class="row no-gutters">
+    <!--------- (LEFT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332923996360745/rox_headcap.png" 
+           class="img-thumbnail p-0" style="height:70px">
+           
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"Cruel wasn't it? The end of our clan. I used to think it died with you, but it withered away long before then I imagine. As soon as the lizard bait promoted his rancid daughter in his stead. Ha! We were doomed from the start weren't we Uncle?"</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i>
+      
+      </div></div></div>
+    <!--------- (RIGHT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"You were a challenging student, that much is certain... though most of all I worry for you Flash. Please take care of yourself, I see a tiredness in you and Irisstar's daughter I'm loathe to see in any child. Look after yourselves."</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i></div>
+      
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332299040849950/miresnout.png" 
+           class="img-thumbnail p-0" style="height:70px"></div></div>
+
+
+      </div>
+    <!---------------------------------------
+            SHIP/RELATIONSHIP INSIGHT
+    ---------------------------------------->
+      <div class="row no-gutters ml-1 mr-1 mt-1" style="font-size:12.5px">
+    <!---------- CHARACTER LEFT ----------> 
+      <div class="col-6 pr-2">
+      <span class="pull-left text-uppercase text-muted"><b><i class="fas fa-heart"></i> │ Roxanne │</b> Agender</span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- CHARACTER RIGHT ----------> 
+      <div class="col-6 pl-2">
+      <span class="pull-right text-uppercase text-muted">Nonbinary <b>│ Miresnout │ <i class="fas fa-heart"></i></b></span>
+      <hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) LOVE (ROMANTIC/PLATONIC) / CRUSHING ON / HEARTBROKEN etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>LOVE │</b> Hesistant, familial</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Familial <b>│ LOVE</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) TRUST / SUSPICIOUS / DISTRUST etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>TRUST │</b> Fairly trusted</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i></span>
+     <span class="pull-right text-uppercase text-muted">Trusts <b>│ TRUST</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) COMFORT / SAFE / FEAR ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>COMFORT │</b> Safe</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">Fairly safe <b>│ COMFORT</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+      </div>
+    <!--------- RELATIONSHIP HISTORY --------->
+      <p class="text-muted mt-2 pl-1" style="font-size:12px">Though he didn't play a huge role in her early life Miresnout showed a keen interest in the growth and development of his niece, though namely on the emotional end of things. When the two were matched up as mentor and apprentice it was no secret it was perhaps an act of favoritism to ensure her training went as her parents desired it to, though the arrangement suited the two just fine.</p>
+
+      <p class="text-muted mt-3 pl-1" style="font-size:12px">Even with ups and downs a quiet respect stayed with them, though it wasn't until he was already gone did Roxanne realize how much the toms consistent support had meant for her. This realization will always be a hindsight she can never correct, and this tends to stay with her.</p>
+
+</div>
+<!----------------- RELATIONSHIP 03 END ----------------->
+</div>
+
+<!--------------------------------------------------------
+
+                     RELATIONSHIP 04
+            
+--------------------------------------------------------->
+
+<div class="tab-pane fade show" id="FOUR">
+
+    <!--------- BANNER --------->
+      <div class="row no-gutters">
+      <div class="container"
+           style="background:url(https://i.imgur.com/vmJzSii.gif) center; 
+                  background-size:cover;
+                  border-radius:15px 15px 0px 0px; 
+                  width:578px; 
+                  height:55px"></div></div>
+
+      <div class="container px-2 py-2">
+    <!--------- BANNER --------->
+      <i class="fab fa-pagelines fa-2x text-muted" style="position:absolute; top:5px; left:0px; z-index:999"></i>
+
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:35px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:50px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:64px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:78px; left:2px; z-index:999"></i>
+      <i class="fas fa-heart text-muted" style="font-size:12px; position:absolute; top:92px; left:2px; z-index:999"></i>
+
+    <!--------- PROFILE PICTURE --------->
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944334918794768424/shard.png"
+           class="float-sm-left d-block mx-auto img-thumbnail p-0" style="height:102px">
+      <div class="col p-0 px-1"><div class="row">
+  
+    <!--------- GENDER + NAME + RELATIONSHIP STATUS --------->
+      <h1 class="pt-1 text-uppercase mb-0 pl-2" style="font-size:20px">
+      <a class="text-muted" href="https://toyhou.se/14309964.shard">
+      ⚧ │  Shard │  Alpha / Childhood Friend / Confidant</a></h1>
+      <hr class="mt-2 my-1 p-0 w-100">
+
+    <!--------- HOW DOES YOUR CHARACTER THINK, FEEL OR DO FOR THEM? --------->
+      <p class="mb-0 pl-2 text-muted" style="font-size:12px"> Deeply respects the harship and devotion of, Feels affection towards, Trusts implicitly with all information, Would die to protect and secure the future of, Feels close to and enjoys the company of</p><hr class="my-1 p-0 w-100">
+
+      </div></div>
+    <!--------- OTHER STATUS --------->
+      <div class="col p-0" style="font-size:12px"><div class="row no-gutters">
+      <div class="col pr-2"><span class="pl-2 pull-left text-muted"><b>STATUS</b></span>
+      <span class="pull-right text-muted">Closest friend</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-1"><span class="pull-left text-muted"><b>FEELINGS</b></span>
+      <span class="pull-right text-muted">Deeply loyal</span><hr class="my-1 p-0 w-100"></div>
+
+      <div class="col pl-3 pr-1"><span class="pull-left text-muted"><b>CLAN</b></span>
+      <span class="pull-right text-muted">The Pack</span><hr class="my-1 p-0 w-100"></div>
+
+      </div></div>
+    <!--------- MINI MOODBOARD --------->
+      <div class="row no-gutters mb-2 mt-2">
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/24/21/77/242177273c4c512c2d64833c5ee78116.jpg); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://cdn.discordapp.com/attachments/699362769736302592/946633309079863296/c8870f58809b420cb89686c9489d9c47.png); background-size:cover; background-position:bottom"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://cdn.discordapp.com/attachments/699362769736302592/946633576529682472/928b35075932e899cf4ad03161e2a2c9.png); background-size:cover; background-position:center"></div></div>&nbsp; &nbsp;
+
+      <div class="col p-0"><div class="rounded" style="width:128px; padding-top:35%; background-image:url(https://i.pinimg.com/564x/dc/ad/60/dcad602840cdfc291acdef817a39c9b9.jpg); background-size:cover; background-position:center"></div></div>
+      
+      
+      </div><div class="row no-gutters">
+    <!--------- (LEFT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944332923996360745/rox_headcap.png" 
+           class="img-thumbnail p-0" style="height:70px">
+           
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"TO BE ADDED FROM IC INTERACTIONS."</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i>
+      
+      </div></div></div>
+    <!--------- (RIGHT) RELATIONSHIP QUOTE --------->
+      <div class="col-6"><div class="row no-gutters">
+        
+      <div class="text-center" style="font-size:12px; width:205px">
+      <i class="pr-1 fas fa-quote-left text-muted"></i>
+      <i class="text-center text-muted">"TO BE ADDED FROM IC INTERACTIONS."</i>
+      <i class="pl-1 fas fa-quote-right text-muted"></i></div>
+      
+      <img src="https://cdn.discordapp.com/attachments/871160609566248991/944334918794768424/shard.png" 
+           class="img-thumbnail p-0" style="height:70px"></div></div>
+
+
+      </div>
+    <!---------------------------------------
+            SHIP/RELATIONSHIP INSIGHT
+    ---------------------------------------->
+      <div class="row no-gutters ml-1 mr-1 mt-1" style="font-size:12.5px">
+    <!---------- CHARACTER LEFT ----------> 
+      <div class="col-6 pr-2">
+      <span class="pull-left text-uppercase text-muted"><b><i class="fas fa-heart"></i> │ Roxanne │</b> Agender</span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- CHARACTER RIGHT ----------> 
+      <div class="col-6 pl-2">
+      <span class="pull-right text-uppercase text-muted">Nonbinary <b>│ Shard │ <i class="fas fa-heart"></i></b></span>
+      <hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) LOVE (ROMANTIC/PLATONIC) / CRUSHING ON / HEARTBROKEN etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>LOVE │</b> Cares for</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="far fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">TBD ICLY <b>│ LOVE</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) TRUST / SUSPICIOUS / DISTRUST etc. ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>TRUST │</b> Implicitly</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i></span>
+      <hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i></span>
+     <span class="pull-right text-uppercase text-muted">TBD ICLY <b>│ TRUST</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+    <!---------- (LEFT) COMFORT / SAFE / FEAR ----------> 
+      <div class="col-6 pr-2"><span class="pull-left text-uppercase text-muted">
+      <b>COMFORT │</b> Safe</span><span class="pull-right text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i>
+      </span><hr class="my-1 bg-faded"></div>
+    <!---------- (RIGHT) ----------> 
+      <div class="col-6 pl-2"><span class="pull-left text-muted" style="font-size:11px">
+      <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i> <i class="fas fa-square"></i></span>
+      <span class="pull-right text-uppercase text-muted">TBD ICLY <b>│ COMFORT</b></span>
+      </span><hr class="my-1 bg-faded"></div>
+
+
+      </div>
+    <!--------- RELATIONSHIP HISTORY --------->
+      <p class="text-muted mt-2 pl-1" style="font-size:12px">Having met as apprentices of the same age the two bonded over the circumstances of their lives and mentorship, growing closer with time with their relationship cementing itself into stone as Shard, then Wolfsbane, was promoted to deputy at a very young age in the wake of the death of Roxanne, then Flashfire's, own mentor and uncle, Miresnout. </p>
+
+      <p class="text-muted mt-3 pl-1" style="font-size:12px">Through trial and tribulation the two stuck side by side despite the harships SwampClan face, even departing down the same path in the war where Roxanne devoutly stood by Shard's side to help him form the Pack. Red now serves as Shard's deputy and in times of turmoil is never seen far from her side.</p>
+
+</div>
+<!----------------- RELATIONSHIP 04 END ----------------->
+</div>
+</div>
